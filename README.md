@@ -12,6 +12,7 @@ My personal knowledge base and study notes.
 
 #### Languages
 
+- [Ruby](./Programming/Languages/Ruby/README.md) - A dynamic, open-source programming language focused on simplicity.
 - [TypeScript](./Programming/Languages/TypeScript/README.md) - JavaScript with syntax for types.
 
 ## Archive
